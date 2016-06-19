@@ -1,0 +1,11 @@
+#include "bird_red.h"
+
+Bird_red::Bird_red(float x, float y, float radius, QTimer *timer, QPixmap pixmap, b2World *world, QGraphicsScene *scene): Bird(x, y, radius, timer, pixmap, world, scene){
+
+}
+
+
+void Bird_red::skill()
+{
+
+}
