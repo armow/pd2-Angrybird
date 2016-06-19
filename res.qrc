@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>s.png</file>
+        <file>a.png</file>
+        <file>angrybird-black.png</file>
+        <file>angrybird-blue.png</file>
+        <file>angrybird-green.png</file>
+        <file>angrybird-pink.png</file>
+        <file>angrybird-yellow.png</file>
+        <file>arrow.png</file>
+        <file>angrybird-red.png</file>
+        <file>w1.png</file>
+        <file>w3.png</file>
+        <file>brick.png</file>
+        <file>ice.png</file>
+        <file>rock.png</file>
+        <file>w2.png</file>
+        <file>w4.png</file>
+        <file>w5.png</file>
+        <file>back.jpg</file>
+        <file>exit.png</file>
+        <file>restart.png</file>
+        <file>ground.png</file>
+    </qresource>
+</RCC>
